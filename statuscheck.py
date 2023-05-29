@@ -1,1 +1,3 @@
-TO shcek status of connected dots
+TO check status of connected dots
+
+practise session
